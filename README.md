@@ -1,7 +1,7 @@
 # Survival Analysis of CO2 Sequestration in Depleted Shale Reservoirs
 This repository was created for the peer-reviewed journal article submitted to _Petroleum_:
 
-Artun, E., Al-Amri, A., Kulga, B. 2025. Survival Analysis of CO2 Sequestration in Depleted Shale Reservoirs. _Geonergy Science and Engineering_. _under review_
+Artun, E., Al-Amri, A., Kulga, B., Ertekin, T. 2025. Survival analysis of CO2 sequestration in depleted shale reservoirs. _Geonergy Science and Engineering_. _under review_
 
 *Descriptions for the coding files:*
 
